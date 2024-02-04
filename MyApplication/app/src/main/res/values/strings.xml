@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">Where USTHB</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="get_qr_code">Get QR Code</string>
+    <string name="get_3d_model">Get 3D Model</string>
+    <string name="ou_suis_je_">Ou suis-je ?</string>
+    <string name="Chip1_text">Scan point de départ</string>
+    <string name="Chip2_text">Scan point d\'arrivé</string>
+    <string name="point_de_d_part">Point de départ</string>
+    <string name="point_de_d_arrivé">Point d\'arrivé</string>
+    <string name="choisissez_une_localisation">Choisissez une localisation</string>
+    <string name="jacky_wilson">Jacky Wilson</string>
+    <string name="m2_iv">M2 IV</string>
+    <string name="mur_d_actualit_s">mur d\'actualités</string>
+    <string-array name="Places">
+        <item>100 et 200</item>
+        <item>300 et 400</item>
+        <item>Amphis A,B,C,D,E</item>
+        <item>Amphis F,G,H,I,J,K,L</item>
+        <item>Amphis O,P,N,M,Z</item>
+        <item>Amphis X,W,V,U,T,S,R</item>
+        <item>Faculté des Sciences Biologiques</item>
+        <item>Faculté de Chimie</item>
+        <item>Faculté de Physique</item>
+        <item>Faculté de Génie Civil</item>
+        <item>Faculté de génie électrique</item>
+        <item>Faculté d\'informatique</item>
+        <item>Faculté des Mathématiques</item>
+        <item>Faculté des Sciences de la terre et Aménagement du Territoire</item>
+        <item>Faculté de Génie Mécanique et Génie de Procédés</item>
+        <item>village universitaire</item>
+        <item>Rectorat</item>
+        <item>Auditorium</item>
+        <item>Salle onisport</item>
+        <item>Maison des sciences</item>
+        <item>Centre des langues</item>
+        <item>Clinique medicale</item>
+        <item>Salle de tech</item>
+        <item>Bibliotheque Central</item>
+    </string-array>
+
+    <string-array name="array_messages">
+        <item>Mess 1</item>
+        <item>Mess 2</item>
+        <item>Mess 3</item>
+        <item>Mess 4</item>
+        <item>Mess 5</item>
+        <item>Mess 6</item>
+        <item>Mess 7</item>
+        <item>Mess 8</item>
+        <item>Mess 9</item>
+        <item>Mess 0</item>
+    </string-array>
+
+</resources>
